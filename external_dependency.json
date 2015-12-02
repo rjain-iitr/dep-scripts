@@ -1,0 +1,5 @@
+{"external_dependencies": [
+{"url":"http://ubuntu-cloud.chive.canonical.com/ubuntu","series":["trusty-updates/kilo"],"components":["main"],"keys":{"trusty-updates/kilo":"../gpg.key"}}
+]
+}
+
