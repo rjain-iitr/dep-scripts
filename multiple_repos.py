@@ -6,7 +6,7 @@ import yaml
 import time
 import depcommon
 
-base_api_url = "http://10.140.221.229"
+base_api_url = "http://10.140.214.5"
 api_url = base_api_url+":9000"
 
 def get_repo_list(authtoken):
